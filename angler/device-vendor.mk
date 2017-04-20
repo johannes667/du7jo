@@ -20,8 +20,7 @@ PRODUCT_PACKAGES += \
     HwSarControlService \
     ims \
     SetupSmartDeviceOverlay \
-    TimeService \
-    Tycho
+    TimeService
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
@@ -40,9 +39,7 @@ PRODUCT_PACKAGES += \
     DCMO \
     DiagMon \
     DMService \
-    GCS \
-    HiddenMenu \
-    HotwordEnrollment \
+    HiddenMenu 
     qcrilmsgtunnel \
     SprintDM
 
